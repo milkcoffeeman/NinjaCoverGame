@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ZEN</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="game_introduce">Put on your headphones \n\nClose your eyes \n\nFind enemy with your ears \n\nKill them with your sword in your hand!\n\n Please judge enemy\'s position with their breath!</string>
+    <string name="ZEN_IN">ZEN IN</string>
+    <string name="ZEN_OUT">ZEN OUT</string>
+    <string name="title_activity_game_over">GameOverActivity</string>
+    <string name="congraduationNewScore">Congratulation\n New Score!</string>
+    <string name="enemyDie">Enemies Died!</string>
+    <string name="highScore">High score:</string>
+    <string name="START">Start</string>
+    <string name="TUTORIAL">Tutorial</string>
+    <string name="Tutorial_Welcome">Welcome tutorial page!\n Please choose the practice type</string>
+    <string name="left_tutorial">Left</string>
+    <string name="center_tutorial">Forward</string>
+    <string name="right_tutorial">Right</string>
+    <string name="test">Test</string>
+    <string name="back">Back</string>
+    <string name="cut_left_tutorial">Left tutorial: cut your left enemy with your phone face up!\nAfter you select test button, you should finish the attack action in three seconds.\n Attention, after every action, you should keep still until the vibration remind!</string>
+    <string name="cut_center_tutorial">Center tutorial: cut your forward enemy with your phone side up!\nAfter you select test button, you should finish the attack action in three seconds.\n Attention, after every action, you should keep still until the vibration remind!</string>
+    <string name="cut_right_tutorial">Right tutorial: cut your right enemy with your phone back up!\nAfter you select test button, you should finish the attack action in three seconds.\n Attention, after every action, you should keep still until the vibration remind!</string>
+    <string name="success">Success!</string>
+    <string name="failed">Failed, please try again!</string>
+    <string name="exit">Exit</string>
+    <string name="story_button">story</string>
+    <string name="story_unclock">new story unlock</string>
+    <string name="button_select">select</string>
+    <string name="please_move">Please take the action in three seconds!</string>
+    <string name="no_sensor">Sorry, your phone does not have the needed sensors...</string>
+
+    <string name="thanks">I am the creator of this game. If you read this letter, it means that you have already finish this story. This is my first game, it is not good. But I have to say it is my honour to have such a friend like you! Anyway, I am here waiting for your feedback if you like it.</string>
+    <string name="story">Birth in the Secular\n.Live in the Mountain\n.Seek in the Ocean\n.Purify in the Church\n.Complete in the Soul\n.</string>
+
+</resources>

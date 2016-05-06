@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ZEN</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="game_introduce">带上你的耳机 \n\n闭上你的双眼 \n\n用心去听发现敌人 \n\n用你手中的剑实现你的梦想\n\n请根据敌人的呼吸判断敌人的方位</string>
+    <string name="ZEN_IN">ZEN IN</string>
+    <string name="ZEN_OUT">ZEN OUT</string>
+    <string name="title_activity_game_over">GameOverActivity</string>
+    <string name="congraduationNewScore">恭喜\n新纪录！</string>
+    <string name="enemyDie">个敌人死在剑下！</string>
+    <string name="highScore">最高纪录：</string>
+    <string name="START">开始</string>
+    <string name="TUTORIAL">教学</string>
+    <string name="Tutorial_Welcome">欢迎来到教学页面！\n请选择要学习的攻击类型</string>
+    <string name="left_tutorial">左劈</string>
+    <string name="center_tutorial">前刺</string>
+    <string name="right_tutorial">右砍</string>
+    <string name="test">练习</string>
+    <string name="back">返回</string>
+    <string name="cut_left_tutorial">左劈教程：手机正面向上向左劈向敌人！\n当你点击练习按钮后，你需要在三秒内完成攻击动作。\n注意，完成每次动作后，你需要保持静止知道手机震动提示动作完成！</string>
+    <string name="cut_center_tutorial">前刺教程：手机侧面向上向前刺向敌人！\n当你点击练习按钮后，你需要在三秒内完成攻击动作。\n注意，完成每次动作后，你需要保持静止知道手机震动提示动作完成！</string>
+    <string name="cut_right_tutorial">右砍教程：手机背面向上向右砍向敌人！\n当你点击练习按钮后，你需要在三秒内完成攻击动作。\n注意，完成每次动作后，你需要保持静止知道手机震动提示动作完成！</string>
+    <string name="success">成功！</string>
+    <string name="failed">失败，请再试一次</string>
+    <string name="exit">退出</string>
+    <string name="story_button">故事</string>
+    <string name="story_unclock">新故事解锁</string>
+    <string name="button_select">选择</string>
+    <string name="please_move">请在三秒内完成指定动作！</string>
+    <string name="no_sensor">对不起，你的手机没有所需的传感器...</string>
+
+    <string name="thanks">亲爱的玩家，如果您看到了这条信息，那说明您已经看完了这个故事，这是我第一次做游戏，说实话很粗糙，不过非常感谢您，我的朋友。如果您有任何反馈信息，欢迎联系我。</string>
+    <string name="story">生于尘世染红尘\n.归隐山林脱俗世\n.浪迹天涯心愿无\n.遁入空门终不悔\n.斩尽心魔了此生\n.</string>
+
+</resources>
