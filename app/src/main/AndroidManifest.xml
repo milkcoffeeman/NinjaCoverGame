@@ -6,6 +6,8 @@
     <uses-permission android:name="android.permission.SENSOR_ENABLE" />
     <uses-permission android:name="android.permission.WAKE_LOCK" />
     <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
     <application
         android:allowBackup="true"
@@ -30,7 +32,11 @@
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".TutorialActivity" />
         <activity android:name=".StoryActivity" />
-        <activity android:name=".StorySelectActivity"></activity>
+        <activity android:name=".StorySelectActivity" />
+        <activity android:name=".AdvertiseActivity" />
+        <activity
+            android:name="com.purplebrain.adbuddiz.sdk.AdBuddizActivity"
+            android:theme="@android:style/Theme.Translucent" />
     </application>
 
 </manifest>

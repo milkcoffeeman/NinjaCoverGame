@@ -27,6 +27,8 @@
     <string name="button_select">select</string>
     <string name="please_move">Please take the action in three seconds!</string>
     <string name="no_sensor">Sorry, your phone does not have the needed sensors...</string>
+    <string name="advertisement">advertisement</string>
+    <string name="show_ad">show ad</string>
 
     <string name="thanks">I am the creator of this game. If you read this letter, it means that you have already finish this story. This is my first game, it is not good. But I have to say it is my honour to have such a friend like you! Anyway, I am here waiting for your feedback if you like it.</string>
     <string name="story">Birth in the Secular\n.Live in the Mountain\n.Seek in the Ocean\n.Purify in the Church\n.Complete in the Soul\n.</string>

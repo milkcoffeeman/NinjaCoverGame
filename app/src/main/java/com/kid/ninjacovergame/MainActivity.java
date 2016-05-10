@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
     private Button btn_exit;
     private Button btn_story;
     private Button btn_select;
+    private Button btn_advertisement;
     private TextView tv_level;
     private ProgressBar pb_level;
 
@@ -42,6 +43,7 @@ public class MainActivity extends AppCompatActivity {
         btn_exit = (Button) findViewById(R.id.button_exit);
         btn_story = (Button) findViewById(R.id.button_story);
         btn_select = (Button) findViewById(R.id.btn_select);
+        btn_advertisement = (Button) findViewById(R.id.btn_advertisement);
         tv_level = (TextView) findViewById(R.id.tv_level);
         pb_level = (ProgressBar) findViewById(R.id.progressBar);
 
@@ -112,6 +114,15 @@ public class MainActivity extends AppCompatActivity {
         btn_exit.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                finish();
+            }
+        });
+        btn_advertisement.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent();
+                intent.setClass(MainActivity.this, AdvertiseActivity.class);
+                startActivity(intent);
                 finish();
             }
         });

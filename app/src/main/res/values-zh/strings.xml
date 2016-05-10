@@ -27,6 +27,9 @@
     <string name="button_select">选择</string>
     <string name="please_move">请在三秒内完成指定动作！</string>
     <string name="no_sensor">对不起，你的手机没有所需的传感器...</string>
+    <string name="advertisement">广告</string>
+    <string name="show_ad">播放广告</string>
+
 
     <string name="thanks">亲爱的玩家，如果您看到了这条信息，那说明您已经看完了这个故事，这是我第一次做游戏，说实话很粗糙，不过非常感谢您，我的朋友。如果您有任何反馈信息，欢迎联系我。</string>
     <string name="story">生于尘世染红尘\n.归隐山林脱俗世\n.浪迹天涯心愿无\n.遁入空门终不悔\n.斩尽心魔了此生\n.</string>

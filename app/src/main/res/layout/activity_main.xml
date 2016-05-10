@@ -76,5 +76,14 @@
         android:visibility="invisible"
         android:layout_alignParentStart="true" />
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_advertisement"
+        android:text="@string/advertisement"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@+id/progressBar"
+        android:layout_toEndOf="@+id/progressBar" />
+
 
 </RelativeLayout>
